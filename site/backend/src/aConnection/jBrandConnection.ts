@@ -55,6 +55,11 @@ const brandConnection = {
   tFrontendProductionURL2: "https://andromeda-frontend-v02.netlify.app",
 
   uTagName: "Where Vision Meets Velocity",
+
+  vMainApplication: "Andromeda Application",
+  vFrontendApplication: "Andromeda Application (Frontend)",
+  vAdminApplication: "Andromeda Application (Admin)",
+  vBackendApplication: "Andromeda Application (Backend)",
 }
 
 export default brandConnection;
